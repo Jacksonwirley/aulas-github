@@ -31,3 +31,4 @@
 - [Camile](https://github.com/eliimac)
 - [Fabio](https://github.com/fabiio-Fullstack)
 - [Gui](https://github.com/Guialmeiida/Guialmeiida)
+- [Jackson](https://github.com/Jacksonwirley)
